@@ -3,7 +3,7 @@
 # It ensures nodejs_compat is always set, so users don't need to configure it manually.
 
 name = "kvideo"
-compatibility_date = "2023-05-28"
+compatibility_date = "2024-01-01"
 
 [vars]
 # Environment variables can be set here or in Cloudflare Dashboard
